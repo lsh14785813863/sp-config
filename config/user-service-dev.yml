@@ -12,6 +12,7 @@ spring:
     password: admin
     
     
+    
 server:
   port: 8101
   
